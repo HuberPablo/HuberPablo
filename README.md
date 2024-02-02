@@ -7,10 +7,10 @@
   
 - <b>R projects</b>
   - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
-  - [Analysis on Kaggle](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Case Study: Bellabet](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
 
 - <b>Python</b>
-  - [Machine Learning project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Pomodoro Application](...)
   - [Webscrapping using ...](...)
 
