@@ -16,6 +16,7 @@
 - [Data Analyst]()
 
 <h2> Social </h2>
-[Kaggle]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+-[Kaggle](https://www.kaggle.com/pablohuber/code))
+-[linkedin](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
 
