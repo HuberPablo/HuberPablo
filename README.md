@@ -7,7 +7,7 @@
   - [Case Study: Bellabet](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
 
 - <b>Python</b>
-  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
   - [Pomodoro Application](...)
   - [Webscrapping using ...](...)
 
