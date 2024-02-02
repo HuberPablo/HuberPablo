@@ -6,7 +6,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <b>R projects</b>
-  - [Casino Roulete](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
   - [Analysis on Kaggle](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 - <b>Python</b>
