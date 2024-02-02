@@ -13,7 +13,7 @@
 
 <h2> Social </h2>
 
--[Kaggle](https://www.kaggle.com/pablohuber/code)
--[linkedin](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
+- [Kaggle](https://www.kaggle.com/pablohuber/code)
+- [linkedin](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
 
 
