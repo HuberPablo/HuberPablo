@@ -4,6 +4,7 @@
   
 - <b>R projects</b>
   - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
+    - Programming Languages: **R, HTML, CSS,** Java
   - [Case Study: Bellabet](https://www.kaggle.com/code/pablohuber/case-study-bellabeat)
 
 - <b>Python</b>
