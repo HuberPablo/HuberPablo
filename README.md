@@ -2,14 +2,16 @@
 
 <h2>👨‍💻 Here are some projects that i did:</h2>
   
-- <b>R projects</b>
+- <b> **Data Science** </b>
+  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
   - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
     
     Developed an engaging web application using R and Shiny, designed to simulate a roulette game and enable users to test various betting strategies.
     Incorporated sophisticated statistical models to realistically demonstrate the outcomes of different strategies.
     Designed the application not only as an interactive tool for learning and entertainment but also as an educational platform to highlight the inherent risks associated with gambling.
     - Programming Languages: **R, HTML, CSS,** Java
-
+    - 
+- <b> **Data Analytics** </b>
 
   - [Case Study: Cyclistic Company](https://www.kaggle.com/code/pablohuber/case-study-cyclistic-company)
   
@@ -27,11 +29,6 @@
       "Bellabeat is a San Francisco-based health technology company established in 2013 by Urška Sršen and Sando, that produces smart wearables, digital programs. The company has developed a range of products that primarily           focus on monitoring various aspects of women's health such as sleep, activity, menstrual cycles, and stress levels. The information collected by these devices is analysed to provide personalized insights and                    recommendations to users, which can be tracked and monitored through their mobile app. The company is dedicated to empowering women to manage and enhance their overall health and wellbeing."
       - Programming Lenguage : **R**
 
-
-- <b>Python</b>
-  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
-  - [Pomodoro Application](...)
-  - [Webscrapping using ...](...)
 
 <h2> Social </h2>
 
