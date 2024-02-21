@@ -6,9 +6,9 @@
   - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
   - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
     
-    Developed an engaging web application using R and Shiny, designed to simulate a roulette game and enable users to test various betting strategies.
+    We developed an engaging web application using R and Shiny, designed to simulate a roulette game and enable users to test various betting strategies.
     Incorporated sophisticated statistical models to realistically demonstrate the outcomes of different strategies.
-    Designed the application not only as an interactive tool for learning and entertainment but also as an educational platform to highlight the inherent risks associated with gambling.
+    We designed the application not only as an interactive tool for learning and entertainment but also as an educational platform to highlight the inherent risks associated with     gambling. Spoiler: Casino always win in the long term :(
     - Programming Languages: **R, HTML, CSS,** Java
     - 
 - <b> **Data Analytics** </b>
