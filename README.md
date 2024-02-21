@@ -3,7 +3,17 @@
 <h2>👨‍💻 Here are some projects that i did:</h2>
   
 - <b> **Data Science** </b>
+
   - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
+    
+    The purpose of this project is to create a **highly accurate machine learning model** that
+    Stack Overflow may utilize to automate the process of single-tagging user-generated articles.
+    These tags facilitate efficient information retrieval and contribute significantly to the platform’s
+    usability, allowing users to filter and access content pertinent to their interests and expertise
+    levels. Our approach is designed to anticipate these tags by assessing the content and structure
+    of the text.
+    - Programming Languages: **Python**
+    
   - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
     
     We developed an engaging web application using R and Shiny, designed to simulate a roulette game and enable users to test various betting strategies.
