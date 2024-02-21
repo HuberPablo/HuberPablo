@@ -4,7 +4,7 @@
   
 - <b> **Data Science** </b>
 
-  - [Machine Learning: Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
+  - [Machine Learning: NLP Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
     
     The purpose of this project is to create a **highly accurate machine learning model** that
     Stack Overflow may utilize to automate the process of single-tagging user-generated articles.
