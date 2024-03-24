@@ -23,7 +23,7 @@
     - 
 - <b> **Data Analytics** </b>
 
-  - [Case Study: Cyclistic Company](https://www.kaggle.com/code/pablohuber/case-study-cyclistic-company)
+  - [Case Study: Cyclistic Company](https://www.kaggle.com/code/pablouber/case-study-cyclistic-company)
   
       This case study is made in relation of my Google Data Analytics Professional Certificate. I will perform the work of a junior data analyst that workers in a bike company.
       My goal will be to help the compagnie answer some key business questions in 6 phases: Ask, Prepare, Process, Analyse, Share, Act.
@@ -31,7 +31,7 @@
       “Cyclistic bike-share” is a fictional American company situated in Chicago that lend a variety of bikes with over 600 docking stations. One can take a bike in one of the stations and let it in another station. There are         2 types of customers: Those who pay each time they use a bike (Customers) and those who are subscribed to the annual plan (Subscribers).
       - Programming Lenguage : **R**
     
-   - [Case Study: Bellabet](https://www.kaggle.com/code/pablohuber/case-study-bellabeat) 
+   - [Case Study: Bellabet](https://www.kaggle.com/code/pablouber/case-study-bellabeat) 
 
       This case study is made in relation of my Google Data Analytics Professional Certificate. I will perform the work of a junior data analyst that works in a health technology company .
       My goal will be to help the company answer some key business questions in 6 phases: Ask, Prepare, Process, Analyse, Share, Act.
