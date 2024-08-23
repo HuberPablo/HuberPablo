@@ -8,12 +8,14 @@
     In this case study, we analyzed the experience curve for Heliotronics, a company involved in producing solar panels, to estimate future manufacturing costs.
     We used a multiplicative learning model to transform production data into a linear relationship, applied regression analysis to determine the experience curve, and calculated the expected manufacturing costs for a competitive bid in Switzerland.
     The analysis included forecasting future costs based on cumulative production and providing a 95% confidence interval for these estimates.
+    - Programming Languages: **R**
 
    - [Smartphone Quality Perception](https://github.com/HuberPablo/SmartphoneQualityPerception)
 
       In this case study, we conducted a comprehensive factor analysis to understand customer perceptions of smartphone quality. Together with Oscar Wieland, we analyzed survey data from over 1,000 respondents to identify key dimensions that influence perceived quality, willingness to pay a premium, and repurchase intentions. Our analysis revealed that factors such as performance, durability, and aesthetics significantly influence overall quality perception.
      The regression analysis showed that performance was the strongest predictor of willingness to pay a premium, while ease of use had the most substantial impact on repurchase intentions.
      We also observed brand-specific differences, with Apple scoring higher on aesthetics and prestige, while Samsung excelled in features and durability. These insights provided actionable recommendations for enhancing product quality and customer satisfaction across different smartphone brands.
+     - Programming Languages: **R**
  
     
 
@@ -39,7 +41,7 @@
     Incorporated sophisticated statistical models to realistically demonstrate the outcomes of different strategies.
     We designed the application not only as an interactive tool for learning and entertainment but also as an educational platform to highlight the inherent risks associated with     gambling. Spoiler: Casino always win in the long term :(
     - Programming Languages: **R, HTML, CSS,** Java
-    - 
+      
 - <b> **Data Analytics** </b>
 
   - [Case Study: Cyclistic Company](https://www.kaggle.com/code/pablouber/case-study-cyclistic-company)
