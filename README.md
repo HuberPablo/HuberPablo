@@ -3,6 +3,7 @@
 <h2>👨‍💻 Here are some projects that i did:</h2>
   
 - <b> **Business Analytics** </b>
+
   - [Galerie Lafayette](https://github.com/HuberPablo/Galeries-Lafayette)
 
      In this comprehensive case study, my colleague Oscar Wieland and I conducted an in-depth analysis to understand the key drivers of brand equity for the renowned French retail company, Galeries Lafayette. Facing declining sales, the company sought to identify how customers perceive its brand and what drives their loyalty and commitment.
@@ -11,7 +12,7 @@
 
     Next, we employed Structural Equation Modeling (SEM) to explore the relationships between these dimensions and key outcomes like customer satisfaction, affective commitment, repurchase intention, and co-creation intention. We used latent variables for dimensions such as satisfaction (measured by SAT_1 to SAT_3), affective commitment (measured by COM_A1 to COM_A4), among others.
 
-The insights from this study provided Galeries Lafayette with actionable recommendations to enhance their brand equity. We suggested focusing on improving the in-store experience, particularly through enhancing the store atmosphere and maintaining a high standard of customer service, to strengthen customer loyalty and encourage brand co-creation.
+    The insights from this study provided Galeries Lafayette with actionable recommendations to enhance their brand equity. We suggested focusing on improving the in-store experience, particularly through enhancing the store atmosphere and maintaining a high standard of customer service, to strengthen customer loyalty and encourage brand co-creation.
       - Programming Languages: **R**
       
   - [Heliotronics](https://github.com/HuberPablo/Heliotronics)
