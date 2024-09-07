@@ -59,9 +59,10 @@
 
     The phenomenon of "fake news" continues to gain attention due to its wide-reaching effects on society. This project builds on the research by Serra-Garcia and Gneezy (2021), which examines the role of overconfidence in the detection of lies and the effects of sharing on the spread of misinformation. By conducting a series of lab-based experiments, the original paper explored the conditions under which lies are more likely to be believed and shared. Our work extends this analysis by adding additional data and examining further variables, such as age and gender, in the context of lie detection.
 
-    - Key findings
-      We further analyzed the effect of age on lie detection, finding that older individuals are not significantly worse than younger participants at detecting lies.
+    - **Key findings:**
+       We further analyzed the effect of age on lie detection, finding that older individuals are not significantly worse than younger participants at detecting lies.
 We found that while men tend to be more overconfident than women, this overconfidence decreases with age.
+- Programming Languages: **Stata** 
 
 
 <h2> Social </h2>
