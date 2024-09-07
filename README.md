@@ -53,7 +53,15 @@
     We designed the application not only as an interactive tool for learning and entertainment but also as an educational platform to highlight the inherent risks associated with     gambling. Spoiler: Casino always win in the long term :(
     - Programming Languages: **R, HTML, CSS,** Java
     - Main methods: **Simulated Strategies: Maringale System, Fibonacci sequence, D'Alembert System and more**
-      
+
+- <b> **Research** </b>
+  - [Detecting Lies and Fake News: An Extension of Research by Serra-Garcia & Gneezy."](https://github.com/HuberPablo/AppliedEconometrics)
+
+    The phenomenon of "fake news" continues to gain attention due to its wide-reaching effects on society. This project builds on the research by Serra-Garcia and Gneezy (2021), which examines the role of overconfidence in the detection of lies and the effects of sharing on the spread of misinformation. By conducting a series of lab-based experiments, the original paper explored the conditions under which lies are more likely to be believed and shared. Our work extends this analysis by adding additional data and examining further variables, such as age and gender, in the context of lie detection.
+
+    - Key findings
+      We further analyzed the effect of age on lie detection, finding that older individuals are not significantly worse than younger participants at detecting lies.
+We found that while men tend to be more overconfident than women, this overconfidence decreases with age.
 
 
 <h2> Social </h2>
