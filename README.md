@@ -35,7 +35,7 @@
 
 - <b> **Data Science Projects** </b>
 
-  - NLP Stack Overflow Classification: Machine Learning for Tagging](https://github.com/HuberPablo/Stackoverflow-Classification-)
+  - [NLP Stack Overflow Classification: Machine Learning for Tagging](https://github.com/HuberPablo/Stackoverflow-Classification-)
     
     The purpose of this project is to create a **highly accurate machine learning model** that
     Stack Overflow may utilize to automate the process of single-tagging user-generated articles.
