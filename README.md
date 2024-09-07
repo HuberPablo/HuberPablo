@@ -62,7 +62,7 @@
     - **Key findings:**
        Older individuals are not significantly worse at detecting lies compared to younger participants.
 Men tend to be more overconfident in their lie detection abilities than women, though this decreases with age..
-  - Programming Languages: **Stata** 
+    - Programming Languages: **Stata** 
 
 
 <h2> Social </h2>
