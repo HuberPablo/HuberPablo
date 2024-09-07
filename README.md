@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Here are some projects that i did:</h2>
   
-- <b> **Business Analytics** </b>
+- <b> **Business Analytics Projects** </b>
 
-  - [Galerie Lafayette](https://github.com/HuberPablo/Galeries-Lafayette)
+  - [Galeries Lafayette: Analyzing Brand Equity Through SEM](https://github.com/HuberPablo/Galeries-Lafayette)
 
      In this comprehensive case study, my colleague Oscar Wieland and I conducted an in-depth analysis to understand the key drivers of brand equity for the renowned French retail company, Galeries Lafayette. Facing declining sales, the company sought to identify how customers perceive its brand and what drives their loyalty and commitment.
 
@@ -16,7 +16,7 @@
       - Programming Languages: **R**
       - Main methods: **SEM, EFA, SFA**
 
-   - [Smartphone Quality Perception](https://github.com/HuberPablo/SmartphoneQualityPerception)
+   - [Smartphone Quality Perception Analysis: Factor Analysis](https://github.com/HuberPablo/SmartphoneQualityPerception)
 
      In this case study, we conducted a comprehensive factor analysis to understand customer perceptions of smartphone quality. Together with Oscar Wieland, we analyzed survey data from over 1,000 respondents to identify key dimensions that influence perceived quality, willingness to pay a premium, and repurchase intentions. Our analysis revealed that factors such as performance, durability, and aesthetics significantly influence overall quality perception.
      The regression analysis showed that performance was the strongest predictor of willingness to pay a premium, while ease of use had the most substantial impact on repurchase intentions.
@@ -24,7 +24,7 @@
      - Programming Languages: **R**
      - Main methods: **EFA, SFA**
        
-  - [Heliotronics](https://github.com/HuberPablo/Heliotronics)
+  - [Heliotronics Solar Panel Production: Forecasting Costs with Experience Curves](https://github.com/HuberPablo/Heliotronics)
 
     In this case study, we analyzed the experience curve for Heliotronics, a company involved in producing solar panels, to estimate future manufacturing costs.
     We used a multiplicative learning model to transform production data into a linear relationship, applied regression analysis to determine the experience curve, and calculated the expected manufacturing costs for a competitive bid in Switzerland.
@@ -33,9 +33,9 @@
     - Main methods: **Multiplicative learning model**
 
 
-- <b> **Data Science** </b>
+- <b> **Data Science Projects** </b>
 
-  - [Machine Learning: NLP Stackoverflow Classification Competition](https://github.com/HuberPablo/Stackoverflow-Classification-)
+  - NLP Stack Overflow Classification: Machine Learning for Tagging](https://github.com/HuberPablo/Stackoverflow-Classification-)
     
     The purpose of this project is to create a **highly accurate machine learning model** that
     Stack Overflow may utilize to automate the process of single-tagging user-generated articles.
@@ -46,7 +46,7 @@
     - Programming Languages: **Python**
     - Main methods: **Natural Lenguage Processing, Machine learning models (Support Vector Machine, Logistic Regression, Random Forest)**
     
-  - [Casino Roulete](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
+  - [Roulette Betting Strategies Simulation: An Interactive Shiny App](https://github.com/SimoesBarbosaRicardo/Roulette-Lab)
     
     We developed an engaging web application using R and Shiny, designed to simulate a roulette game and enable users to test various betting strategies.
     Incorporated sophisticated statistical models to realistically demonstrate the outcomes of different strategies.
@@ -54,15 +54,15 @@
     - Programming Languages: **R, HTML, CSS,** Java
     - Main methods: **Simulated Strategies: Maringale System, Fibonacci sequence, D'Alembert System and more**
 
-- <b> **Research** </b>
-  - [Detecting Lies and Fake News: An Extension of Research by Serra-Garcia & Gneezy."](https://github.com/HuberPablo/AppliedEconometrics)
+- <b> **Research Projects** </b>
+  - [Detecting Lies and Fake News: An Econometric Extension"](https://github.com/HuberPablo/AppliedEconometrics)
 
     The phenomenon of "fake news" continues to gain attention due to its wide-reaching effects on society. This project builds on the research by Serra-Garcia and Gneezy (2021), which examines the role of overconfidence in the detection of lies and the effects of sharing on the spread of misinformation. By conducting a series of lab-based experiments, the original paper explored the conditions under which lies are more likely to be believed and shared. Our work extends this analysis by adding additional data and examining further variables, such as age and gender, in the context of lie detection.
 
     - **Key findings:**
-       We further analyzed the effect of age on lie detection, finding that older individuals are not significantly worse than younger participants at detecting lies.
-We found that while men tend to be more overconfident than women, this overconfidence decreases with age.
-- Programming Languages: **Stata** 
+       Older individuals are not significantly worse at detecting lies compared to younger participants.
+Men tend to be more overconfident in their lie detection abilities than women, though this decreases with age..
+  - Programming Languages: **Stata** 
 
 
 <h2> Social </h2>
