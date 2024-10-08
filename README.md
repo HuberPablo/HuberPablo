@@ -32,6 +32,13 @@
     - Programming Languages: **R**
     - Main methods: **Multiplicative learning model**
 
+  -[Customer Segmentation: Telecommunications](https://github.com/HuberPablo/Telecommunication)
+
+    In this project, I applied k-means clustering to segment a telecommunications customer base into four distinct groups based on usage patterns and cost behaviors. The goal was to provide actionable insights for marketing strategy and service optimization.  I employed the elbow and silhouette methods to determine the optimal number of clusters, standardized the data to ensure comparability, and refined the clustering model by excluding variables with low variance. The analysis revealed key customer segments, such as high-usage business users and cost-sensitive economic users, leading to tailored recommendations for pricing models, loyalty programs, and upselling opportunities.
+
+    - Programming Languages: **R**
+    - Main methods: k-means clustering
+
 
 - <b> **Data Science Projects** </b>
 
